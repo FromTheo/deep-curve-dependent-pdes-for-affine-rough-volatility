@@ -6,5 +6,7 @@ We implement:
 
 ### Examples of illustrations 
 
+![all_prices](assets/all_prices.png)
+
 ### Disclaimer 
 Source code is available upon request. Please contact me directly. 
