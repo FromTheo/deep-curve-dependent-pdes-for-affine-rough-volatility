@@ -5,7 +5,7 @@ This repository reproduces the results of [A. Jacquier and M. Oumgari (2023)](ht
 We implement: 
 - hybrid scheme à la [M. Bennedsen, A. Lunde, M. S. Pakkanen (2017)](https://arxiv.org/pdf/1507.03004) to generate trajectories of the rough Heston model,
 - an Adams scheme to solve the fractional Riccati-Volterra equation and compute the characteric function in the rough Heston model, 
-- a backward algorithm (BSDE-inspired) to price an european option in afine rough volatility models. 
+- a backward algorithm (BSDE-inspired) to price an european option in affine rough volatility models. 
 
 ### Examples of illustrations 
 
