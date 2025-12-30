@@ -6,6 +6,8 @@ We implement:
 
 ### Examples of illustrations 
 
+![iv](assets/joint_iv.png)
+
 ![all_prices](assets/all_prices.png)
 
 ### Disclaimer 
